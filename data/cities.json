@@ -1,28 +1,3 @@
 {
-  "cities": [
-    {
-      "cityName": "Kicevo",
-      "country": "North Macedonia",
-      "emoji": "🇲🇰",
-      "date": "2024-08-23T14:26:31.372Z",
-      "notes": "",
-      "position": {
-        "lat": "41.48389104267175",
-        "lng": "20.753173828125004"
-      },
-      "id": 1
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-31T13:28:24.000Z",
-      "notes": "Sea reazbira za Real Madrid",
-      "position": {
-        "lat": "40.35961798263455",
-        "lng": "-3.7199166112837383"
-      },
-      "id": 2
-    }
-  ]
+  "cities": []
 }
